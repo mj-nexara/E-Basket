@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/E-Basket/static/css/main.2683fa62.css",
+    "main.js": "/E-Basket/static/js/main.fcf89793.js",
+    "static/media/other1-big.jpg": "/E-Basket/static/media/other1-big.57a9349ad465c6b33cab.jpg",
+    "static/media/galleryImage3.jpg": "/E-Basket/static/media/galleryImage3.7d7c6bcdec244d6995c5.jpg",
+    "static/media/categorySucculent.jpg": "/E-Basket/static/media/categorySucculent.6227582950f2e7dcd591.jpg",
+    "static/media/other2-big.jpg": "/E-Basket/static/media/other2-big.ea8e6be29fff5986fa77.jpg",
+    "static/media/succulent2-big.jpg": "/E-Basket/static/media/succulent2-big.b3132d00fea32d583b4e.jpg",
+    "static/media/mainBiggerScreen.jpg": "/E-Basket/static/media/mainBiggerScreen.817abfc0b511774db3bc.jpg",
+    "static/media/galleryImage1.jpg": "/E-Basket/static/media/galleryImage1.02f25a674e78ae1fc0da.jpg",
+    "static/media/galleryImage2.jpg": "/E-Basket/static/media/galleryImage2.457c3d4e2e27bdeb499f.jpg",
+    "static/media/pot2-big.jpg": "/E-Basket/static/media/pot2-big.173de0b21517a3e5a36c.jpg",
+    "static/media/mainMobile.jpg": "/E-Basket/static/media/mainMobile.4f01f191851c219ab916.jpg",
+    "static/media/succulent5-big.jpg": "/E-Basket/static/media/succulent5-big.fb481049022bac9040cf.jpg",
+    "static/media/pot4-big.jpg": "/E-Basket/static/media/pot4-big.bcf5c21bfb28f5d41be4.jpg",
+    "static/media/pot1-big.jpg": "/E-Basket/static/media/pot1-big.41eee6d989721950e190.jpg",
+    "static/media/succulent1-big.jpg": "/E-Basket/static/media/succulent1-big.5199e0e0b51ed6d6f4f6.jpg",
+    "static/media/other1.jpg": "/E-Basket/static/media/other1.c46c63d9554a19abe213.jpg",
+    "static/media/succulent3-big.jpg": "/E-Basket/static/media/succulent3-big.939d42f95633e892e008.jpg",
+    "static/media/succulent4-big.jpg": "/E-Basket/static/media/succulent4-big.9a86d90823b3a699fb3e.jpg",
+    "static/media/categoryOther.jpg": "/E-Basket/static/media/categoryOther.27ff9f4ee9d9b84d4dfa.jpg",
+    "static/media/pot3-big.jpg": "/E-Basket/static/media/pot3-big.55e640eba485f3621e72.jpg",
+    "static/media/other2.jpg": "/E-Basket/static/media/other2.968adbf6343a4e41be06.jpg",
+    "static/media/succulent2.jpg": "/E-Basket/static/media/succulent2.8489a34401c37ffa0793.jpg",
+    "static/media/succulent5.jpg": "/E-Basket/static/media/succulent5.8d25cb081f2891c584e4.jpg",
+    "static/media/succulent1.jpg": "/E-Basket/static/media/succulent1.2a95bd85eaf360dd3f37.jpg",
+    "static/media/pot1.jpg": "/E-Basket/static/media/pot1.20e0dd4c725227e50fca.jpg",
+    "static/media/pot4.jpg": "/E-Basket/static/media/pot4.576dfaf6df485c75d77d.jpg",
+    "static/media/categoryPot.jpg": "/E-Basket/static/media/categoryPot.9ef1b5872c94e3714f1d.jpg",
+    "static/media/succulent3.jpg": "/E-Basket/static/media/succulent3.d4acc119979230f60af6.jpg",
+    "static/media/succulent4.jpg": "/E-Basket/static/media/succulent4.6cde9e732acce3a4b31f.jpg",
+    "static/media/pot2.jpg": "/E-Basket/static/media/pot2.9b383a50a8c5fa84f322.jpg",
+    "static/media/pot3.jpg": "/E-Basket/static/media/pot3.664a580d56825dbab529.jpg",
+    "index.html": "/E-Basket/index.html",
+    "main.2683fa62.css.map": "/E-Basket/static/css/main.2683fa62.css.map",
+    "main.fcf89793.js.map": "/E-Basket/static/js/main.fcf89793.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2683fa62.css",
+    "static/js/main.fcf89793.js"
+  ]
+}
