@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/e-basket/static/css/main.3f5d64ed.css",
-    "main.js": "/e-basket/static/js/main.abfa4ffb.js",
+    "main.css": "/e-basket/static/css/main.3f5c0396.css",
+    "main.js": "/e-basket/static/js/main.8e104508.js",
     "static/media/sipping-sunshine.jpg": "/e-basket/static/media/sipping-sunshine.d8277206a18cf2c81e9e.jpg",
     "static/media/healthy-habits.jpg": "/e-basket/static/media/healthy-habits.bd34ad7164380623ebfe.jpg",
     "static/media/green-vitality.jpg": "/e-basket/static/media/green-vitality.f17a1b5b02b90dfcf54a.jpg",
@@ -28,9 +28,6 @@
     "static/media/constitutionkit.jpg": "/e-basket/static/media/constitutionkit.bf9564c82b222dcda620.jpg",
     "static/media/nexvote.jpg": "/e-basket/static/media/nexvote.33c7025140917598e953.jpg",
     "static/media/other1-big.jpg": "/e-basket/static/media/other1-big.57a9349ad465c6b33cab.jpg",
-    "static/media/audit-journal.jpg": "/e-basket/static/media/audit-journal.dc9f252a43a84866e628.jpg",
-    "static/media/identity-token.jpg": "/e-basket/static/media/identity-token.c529c2853e775dda4113.jpg",
-    "static/media/dev-hoodie.jpg": "/e-basket/static/media/dev-hoodie.1bd17f6bb3044b7ac36e.jpg",
     "static/media/other2-big.jpg": "/e-basket/static/media/other2-big.ea8e6be29fff5986fa77.jpg",
     "static/media/pot2-big.jpg": "/e-basket/static/media/pot2-big.173de0b21517a3e5a36c.jpg",
     "static/media/pot4-big.jpg": "/e-basket/static/media/pot4-big.bcf5c21bfb28f5d41be4.jpg",
@@ -43,11 +40,11 @@
     "static/media/pot2.jpg": "/e-basket/static/media/pot2.9b383a50a8c5fa84f322.jpg",
     "static/media/pot3.jpg": "/e-basket/static/media/pot3.664a580d56825dbab529.jpg",
     "index.html": "/e-basket/index.html",
-    "main.3f5d64ed.css.map": "/e-basket/static/css/main.3f5d64ed.css.map",
-    "main.abfa4ffb.js.map": "/e-basket/static/js/main.abfa4ffb.js.map"
+    "main.3f5c0396.css.map": "/e-basket/static/css/main.3f5c0396.css.map",
+    "main.8e104508.js.map": "/e-basket/static/js/main.8e104508.js.map"
   },
   "entrypoints": [
-    "static/css/main.3f5d64ed.css",
-    "static/js/main.abfa4ffb.js"
+    "static/css/main.3f5c0396.css",
+    "static/js/main.8e104508.js"
   ]
 }
