@@ -1,5 +1,13 @@
-import Header from "./Header";
-import Category from "./Category";
+import HiroSection from "./HiroSection";
+import FoundationSection from "./FoundationSection";
+import CallToActionSection from "./CallToActionSection";
+import LifeFuelSection from "./LifeFuelSection";
+import FutureProducts from "./FutureProducts";
+import ThreePillars from "./ThreePillars";
+import DigitalPillar from './DigitalPillar';
+import VitalAssets from './VitalAssets';
+import TransparentGovernance from './TransparentGovernance';
+import MJLegacy from './MJLegacy';
 import useMediaQuery from "@material-ui/core/useMediaQuery";
 
 export default function Home() {
@@ -10,8 +18,16 @@ export default function Home() {
       className="home-background"
       style={isMobile ? { paddingBottom: "120px" } : { paddingBottom: "90px" }}
     >
-      <Header />
-      <Category />
+      <HiroSection />
+      <FoundationSection />
+      <CallToActionSection />
+      <LifeFuelSection />
+      <FutureProducts />
+      <ThreePillars />
+      <DigitalPillar />
+      <VitalAssets />
+      <TransparentGovernance />
+      <MJLegacy />
     </div>
   );
 }

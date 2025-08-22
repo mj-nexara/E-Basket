@@ -10,7 +10,6 @@ import useWindowScrollPosition from "@rehooks/window-scroll-position";
 import useMediaQuery from "@material-ui/core/useMediaQuery";
 import { CategoryData } from "../../data/CategoryData";
 import CartPreview from "./CartPreview";
-import Search from "./Search";
 
 type Anchor = "left";
 
@@ -100,12 +99,11 @@ export default function Navigation() {
             </React.Fragment>
             <div className="logo_mobile">
               <NavLink to="/">
-                Happy
+                Ethic
                 <br />
-                Succulent
+                Basket
               </NavLink>
             </div>
-            <Search />
             <CartPreview />
           </div>
         ))}
@@ -116,9 +114,9 @@ export default function Navigation() {
       <div className="navbar" style={style}>
         <div className="logo_bigger-screen">
           <NavLink to="/">
-            Happy
+            Ethic
             <br />
-            Succulent
+            Basket
           </NavLink>
         </div>
         {CategoryData.map((item, index) => (
@@ -130,7 +128,6 @@ export default function Navigation() {
             {item.categoryName}
           </NavLink>
         ))}
-        <Search />
         <CartPreview />
       </div>
     );

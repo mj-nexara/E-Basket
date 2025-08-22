@@ -2,7 +2,9 @@
 
 import React from 'react';
 
-const Footer = () => {
+
+export default function Home() {
+
   return (
     <div style={{
       backgroundColor: '#1a1a1a',
@@ -23,7 +25,7 @@ const Footer = () => {
       </div>
     </div>
   );
-};
+}
 
-export default Footer;
+
 

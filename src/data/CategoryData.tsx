@@ -1,6 +1,6 @@
-import categorySucculent from "../img/categorySucculent.jpg";
-import categoryPot from "../img/categoryPot.jpg";
-import categoryOther from "../img/categoryOther.jpg";
+import CategoryLifefuel from "../img/lifefuelmain.jpg";
+import CategoryDigital from "../img/digital-innovation.jpg";
+import CategoryGovernance from "../img/transparent-governance.jpg";
 
 type CategoryProps = {
   categoryName: string;
@@ -10,21 +10,21 @@ type CategoryProps = {
 
 export const CategoryData: CategoryProps[] = [
   {
-    categoryName: "Succulents",
-    image: categorySucculent,
+    categoryName: "LifeFuel",
+    image: CategoryLifefuel,
     description:
-      "Choose your little friend which will make your home a little bit more cozy.",
+      "Essential products for sustainable living, wellness, and symbolic connection—each crafted with purity, purpose, and public proof.",
   },
   {
-    categoryName: "Pots",
-    image: categoryPot,
+    categoryName: "Digital",
+    image: CategoryDigital,
     description:
-      "Add a unique look to your succulents with beautifully hand-crafted potteries.",
+      "Cutting-edge digital solutions, CLI tools, and development resources for modern workflows.",
   },
   {
-    categoryName: "Other",
-    image: categoryOther,
+    categoryName: "Governance",
+    image: CategoryGovernance,
     description:
-      "Check some equipments which maintain your succulents in a better condition.",
+      "Governance is the backbone of ethical commerce. NexaraOne empowers communities to lead with transparency and trust.",
   },
 ];
